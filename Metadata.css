@@ -1,0 +1,27 @@
+/*
+* Celea Ransom
+* Due Date
+* Metadata Classwork 
+*/
+
+/* The universal selector */
+
+*  {
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+header {
+ background-color:plum;
+}
+main {
+    background-color:yellow;
+}
+
+footer {
+    background-color:skyblue;
+}
